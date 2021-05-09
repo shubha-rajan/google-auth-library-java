@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.25.6](https://www.github.com/googleapis/google-auth-library-java/compare/v0.25.5...v0.25.6) (2021-05-09)
+
+
+### Bug Fixes
+
+* use orginal url as audience for self signed jwt if scheme or host is null ([#642](https://www.github.com/googleapis/google-auth-library-java/issues/642)) ([b4e6f1a](https://www.github.com/googleapis/google-auth-library-java/commit/b4e6f1a0bd17dd31edc85ed4879cea75857fd747))
+
 ### [0.25.5](https://www.github.com/googleapis/google-auth-library-java/compare/v0.25.4...v0.25.5) (2021-04-22)
 
 
